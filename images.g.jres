@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAMzMzAwAAADAzMzUzAAAAMzMzVTMDADAzMzNTNTMAMFNVNTM1MwAwMzMzMzUzADAzMzMzNTMAMDMzMzM1MwAwU1U1MzUzADAzMzNTNTMAADMzM1UzAwAAMDMzNTMAAAAAMzMzAwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Vampire"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8P///wAAAAD//9//DwAA8P////3/AAD/////3/8PAP/d3f/f/w8A/////9//DwD/////3/8PAP/////f/w8A/939/9//DwD/////3/8PAPD////9/wAAAP//3/8PAAAA8P///wAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Smiley"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
